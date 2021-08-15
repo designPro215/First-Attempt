@@ -1,0 +1,7 @@
+/* add your CSS here */
+body {direction: rtl}
+span {font-weight: bold;}
+ul {list-style: none; padding: 0}
+#container {border: solid #e1ccc1 3px; padding: 20px; width: 317px}
+#interesting-fact {font-style: italic;}
+.animal-info {border: solid #e1ccc1 2px; padding: 20px; width: 257px;}
